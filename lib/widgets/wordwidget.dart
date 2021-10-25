@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:post/classwords/words.dart';
+import 'package:post/classes/words.dart';
 import 'package:provider/provider.dart';
 
 class Wordcard extends StatelessWidget {

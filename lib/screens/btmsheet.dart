@@ -45,7 +45,14 @@ class _BtmsheetState extends State<Btmsheet> {
                 Provider.of<Words>(context, listen: false).addword(
                     widget.id + 1, engController.text, arController.text);
                 Navigator.pop(context);
-              })
+              }
+              // setState(() {
+              //       words.add(Words(
+              //           eng: engController.text,
+              //           ar: arController.text));
+              //       Navigator.pop(context);
+              //     })
+              )
         ],
       ),
     );

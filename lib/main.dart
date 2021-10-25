@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:post/classwords/words.dart';
+import 'package:post/classes/words.dart';
 import 'package:post/screens/homescreen.dart';
 import 'package:provider/provider.dart';
 

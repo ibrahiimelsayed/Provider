@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:post/classwords/words.dart';
+import 'package:post/classes/words.dart';
 import 'package:post/screens/btmsheet.dart';
-import 'package:post/wordwidget.dart';
+import 'package:post/widgets/wordwidget.dart';
 import 'package:provider/provider.dart';
 
 class WordsApp extends StatelessWidget {
